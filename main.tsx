@@ -15,7 +15,7 @@ blog({
     { title: "GitHub", url: "https://github.com/christophbrosch" }
   ],
   lang: "en",
-  favicon: "favicon.ico"
+  favicon: "static/favicon.ico"
   // middlewares: [
 
     // If you want to set up Google Analytics, paste your GA key here.
